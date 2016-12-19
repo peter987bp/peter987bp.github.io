@@ -11,6 +11,10 @@ nav .brand-logo {
   color: #ffffff;
 }
 
+body {
+  letter-spacing: 1px;
+}
+
 p {
   line-height: 2rem;
 }
